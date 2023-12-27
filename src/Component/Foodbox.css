@@ -1,0 +1,28 @@
+/* FoodBox.css */
+
+.food-box {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.food-box img {
+  border-radius: 8px;
+  width: 20vw;
+}
+
+.food-box .media-content {
+  flex-grow: 1;
+}
+
+.food-box .media-right {
+  display: flex;
+  align-items: center;
+}
+
+.food-box .input {
+  max-width: 50px;
+}
+
+/* Add more styling as needed */
